@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@prisma/generator-helper": "2.9.0-dev.36",
-    "@prisma/sdk": "2.9.0-dev.36",
+    "@prisma/sdk": "2.9.0",
     "pluralize": "^8.0.0",
     "ts-morph": "^8.1.0",
     "tslib": "^2.0.1"
